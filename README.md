@@ -1,4 +1,4 @@
-## Module 1 Final
+## Flatiron Data Science Module 1 Final
 
 This is the Q1 project for Flatiron School, with the objective of creating a professional-level analysis and presentation. The scenario here is that Microsoft is wanting to enter the streaming and film industry - how can existing data about media help with this process?
 
