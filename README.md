@@ -20,7 +20,7 @@ This process uses descriptive analysis looking at trends over time and correlati
 
 ## Results
 
-![The industry is carried by the runaway successes.](graphics/profitability histogram.png)
+![The industry is carried by the runaway successes.](https://github.com/thegrandblooms/dsc-phase-1-project-v2-4/blob/bd65cc196546373e25a855477cdc07fbace0e74f/graphics/profitability%20histogram.png)
 
 Science fiction is the most profitable genere, followed by Adventure and Animation
 
