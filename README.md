@@ -20,13 +20,17 @@ This process uses descriptive analysis looking at trends over time and correlati
 
 ## Results
 
-![The industry is carried by the runaway successes.](https://github.com/thegrandblooms/dsc-phase-1-project-v2-4/blob/bd65cc196546373e25a855477cdc07fbace0e74f/graphics/profitability%20histogram.png)
+The industry is carried by the runaway successes.
+![Profitability histogram](https://github.com/thegrandblooms/dsc-phase-1-project-v2-4/blob/bd65cc196546373e25a855477cdc07fbace0e74f/graphics/profitability%20histogram.png)
 
-Science fiction is the most profitable genere, followed by Adventure and Animation
+Science fiction is the most profitable genre, followed by Adventure and Animation
+![Science Fiction Histogram](https://github.com/thegrandblooms/dsc-phase-1-project-v2-4/blob/d0e0c14e8b25b8817b090e0819463aef356e1485/graphics/Average%20profit%20by%20genre.png)
 
 Films are not getting more profitable over time
+![]()
 
 Genre fluctuates in profitably from year to year
+![]()
 
 ## Conclusions
 
