@@ -1,4 +1,4 @@
-![Microsoft Header Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-MMTV-Paramount-Halo-Original-Series-Ensemble:VP5-1920x600)
+![Microsoft Header Logo](https://www.clipartmax.com/png/middle/262-2627395_microsoft-logo-microsoft-logo-white-transparent-background.png)
 # Microsoft Movie Industry Analysis -- Data Science Module 1, Flatiron School
 
 Author: Blake McMeekin
