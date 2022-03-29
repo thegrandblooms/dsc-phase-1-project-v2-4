@@ -1,4 +1,4 @@
-![Microsoft Header Logo](https://www.clipartmax.com/png/middle/262-2627395_microsoft-logo-microsoft-logo-white-transparent-background.png)
+![Microsoft Header Logo](https://esquilo.io/png/thumb/P9dpE8wk5USK0Zt-Microsoft-Logo-PNG-Transparent.png)
 # Microsoft Movie Industry Analysis -- Data Science Module 1, Flatiron School
 
 Author: Blake McMeekin
