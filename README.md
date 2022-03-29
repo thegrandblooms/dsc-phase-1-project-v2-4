@@ -1,11 +1,11 @@
-!(Microsoft Header Logo)[https://www.mac-group.com/wp-content/uploads/2018/11/Microsoft-Logo-1024x334.png]
-# Microsoft Movie Industry Analysis -- Data Science Module 1, FIS
+![Microsoft Header Logo](https://www.mac-group.com/wp-content/uploads/2018/11/Microsoft-Logo-1024x334.png)
+# Microsoft Movie Industry Analysis -- Data Science Module 1, Flatiron School
 
 Author: Blake McMeekin
 
 ## Overview
 
-This is the Q1 project for Flatiron School, with the objective of creating a professional-level analysis and presentation. Three databases were selected and integrated, cleaned, and processed with python and SQL, with a number of graphs and findings presented in a slideshow. Some of the findings were that science fiction is the most profitable genre of film, shakespeare is in the bottom 5 profitable hollywood writers, and the bulk of the money made in hollywood comes from the blockbuster high-budget productions.
+This is the Q1 project for Flatiron School, with the objective of creating a professional-level analysis and presentation. Three databases were selected, integrated, cleaned, and processed with python and SQL, with a number of graphs and findings presented in a slideshow. Some of the findings were that science fiction is the most profitable genre of film, Shakespeare is in the bottom 5 profitable hollywood writers, and the bulk of the money made in hollywood comes from blockbuster high-budget productions.
 
 ## Business Problem
 
