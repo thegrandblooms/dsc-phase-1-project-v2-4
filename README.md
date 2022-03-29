@@ -1,4 +1,4 @@
-![Microsoft Header Logo](https://esquilo.io/png/thumb/P9dpE8wk5USK0Zt-Microsoft-Logo-PNG-Transparent.png)
+![Microsoft Header Logo](https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg)
 # Microsoft Movie Industry Analysis -- Data Science Module 1, Flatiron School
 
 Author: Blake McMeekin
