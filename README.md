@@ -1,4 +1,5 @@
-# Flatiron Data Science Module 1 Project
+!(Microsoft Header Logo)[https://www.mac-group.com/wp-content/uploads/2018/11/Microsoft-Logo-1024x334.png]
+# Microsoft Movie Industry Analysis -- Data Science Module 1, FIS
 
 Author: Blake McMeekin
 
